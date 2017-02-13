@@ -1,0 +1,64 @@
+
+/* estilos equipo */
+    
+.contact-box.center-version {
+    /*border: 1px solid #18bc9c;*/
+    border: 1px solid rgba(24, 188, 156, 0.33);
+    padding: 0;
+}
+.contact-box {
+    background-color: #ffffff;
+    border: 1px solid #e7eaec;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.contact-box.center-version > a {
+    display: block;
+    background-color: #ffffff;
+    padding: 15px;
+    text-align: center;
+}
+.contact-box > a {
+    color: inherit;
+}
+
+.contact-box .contact-box-footer {
+    text-align: center;
+    background-color: #ffffff;
+    border-top: 1px solid #e7eaec;
+    padding: 15px 20px;
+}
+
+.contact-box.center-version > a img {
+    width: 110px;
+    height: 110px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.img-circle {
+    border-radius: 50%;
+}
+.m-b-xs {
+    margin-bottom: 5px;
+    font-size: 16px;
+}
+a:hover, a:focus {
+    text-decoration: none;
+}
+.contact-box.center-version address {
+    margin-bottom: 0;
+}
+.contact-box .contact-box-footer {
+    text-align: center;
+    background-color: #ffffff;
+    border-top: 1px solid #e7eaec;
+    padding: 15px 20px;
+}
+
+/* equipo */
+#contact .item-equipo{
+    margin: 0;
+    padding: 0 20px;
+    right: 0;
+}
