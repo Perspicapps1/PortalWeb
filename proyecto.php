@@ -31,6 +31,13 @@
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
 
+    <style type="text/css">
+        .fa-check-circle{
+            color: #18bc9c;
+            font-size: 18px;
+        }
+    </style>
+
 </head>
 
 <body id="page-top" class="index">
@@ -116,11 +123,11 @@
             <div class="row">
                 <!-- Proyecto 1 -->
                 <div class="col-md-12">
-                    <div class="col-md-4 col-xs-offset-2">
-                        <h5> <u>Semana 1 : Lanzamiento </u></h5>
+                    <div class="col-md-6 col-xs-offset-2">
+                        <h5> <u>Semana 1 : Lanzamiento </u> <i class="fa fa-check-circle" aria-hidden="true"></i> </h5>
                         <p>Revisar objetivos del curso, asignar equipos de estudiantes y roles, definir enunciado del proyecto.</p>
                     </div>
-                    <div class="col-md-6 text-center">
+                    <div class="col-md-4 text-center">
                         <a href="https://1drv.ms/f/s!AjFmcZ6qFJ1pgRgQ2PhcfEOLCYlm" target="new" class="btn btn-lg btn-outline">
                             <i class="fa fa-search"></i> Ver archivos
                         </a>
@@ -130,11 +137,11 @@
                 <hr class="visible-xs visible-sm">
                 <!-- Proyecto 2 -->
                 <div class="col-md-12">
-                    <div class="col-md-4 col-xs-offset-2">
-                        <h5> <u>Semana 2 : Estrategia</u></h5>
+                    <div class="col-md-6 col-xs-offset-2">
+                        <h5> <u>Semana 2 : Estrategia</u> <i class="fa fa-check-circle" aria-hidden="true"></i> </h5>
                         <p>Producir el diseño conceptual, establecer la estrategia de desarrollo, hacer estimación de tamaño y evaluar riesgos.</p>
                     </div>
-                    <div class="col-md-6 text-center">
+                    <div class="col-md-4 text-center">
                         <a href="https://1drv.ms/f/s!AjFmcZ6qFJ1pgRk0nGa5Rqjk2eA0" target="new" class="btn btn-lg btn-outline">
                             <i class="fa fa-search"></i> Ver archivos
                         </a>
@@ -144,17 +151,48 @@
                 <hr class="visible-xs visible-sm">
                 <!-- ciclo 3 -->
                 <div class="col-md-12">
-                    <div class="col-md-4 col-xs-offset-2">
-                        <h5> <u>Semana 3 : Requerimientos</u></h5>
+                    <div class="col-md-6 col-xs-offset-2">
+                        <h5> <u>Semana 3 : Requerimientos</u> <i class="fa fa-check-circle" aria-hidden="true"></i> </h5>
                         <p>Definir e inspeccionar los requerimientos del ciclo 1. Producir el plan de pruebas del sistema y materiales de soporte</p>
                     </div>
-                    <div class="col-md-6 text-center">
+                    <div class="col-md-4 text-center">
                         <a href="https://1drv.ms/f/s!AjFmcZ6qFJ1pgRqTwRoKrc4AMweH" target="new" class="btn btn-lg btn-outline">
                             <i class="fa fa-search"></i> Ver archivos
                         </a>
                     </div>
                 </div>
                 <!-- END[Proyecto 3] -->
+
+                <hr class="visible-xs visible-sm">
+                <!-- ciclo 4 -->
+                <div class="col-md-12">
+                    <div class="col-md-6 col-xs-offset-2">
+                        <h5> <u>Semana 4 : Planeación</u></h5>
+                        <p>Producir los planes del equipo y los ingenieros del ciclo 1, Producir plan de calidad</p>
+                    </div>
+                    <div class="col-md-4 text-center">
+                        <a href="https://1drv.ms/f/s!AjFmcZ6qFJ1pglPryKJeutoVgh1D" target="new" class="btn btn-lg btn-outline">
+                            <i class="fa fa-search"></i> Ver archivos
+                        </a>
+                    </div>
+                </div>
+                <!-- END[Proyecto 4] -->
+
+                <hr class="visible-xs visible-sm">
+                <!-- ciclo 5 -->
+                <div class="col-md-12">
+                    <div class="col-md-6 col-xs-offset-2">
+                        <h5> <u>Semana 5 : Diseño</u></h5>
+                        <p>Producir e inspeccionar el diseño de bajo nivel del ciclo 1 Producir el plan de pruebas de integración y los materiales de soporte</p>
+                    </div>
+                    <div class="col-md-4 text-center">
+                        <a href="" target="new" class="btn btn-lg btn-outline">
+                            <i class="fa fa-search"></i> Ver archivos
+                        </a>
+                    </div>
+                </div>
+                <!-- END[Proyecto 5] -->
+
             </div>
         </div>
     </section>
@@ -181,11 +219,11 @@
                             <br>
                             <li><p><a target="new" href="https://onedrive.live.com/view.aspx?cid=699d14aa9e716631&page=view&resid=699D14AA9E716631!270&parId=699D14AA9E716631!161&authkey=!AIJTqsGBNDF9QNM&app=Excel">Control de cuentas</a></p></li>
                             <li><p><a target="new" href="https://onedrive.live.com/view.aspx?cid=699d14aa9e716631&page=view&resid=699D14AA9E716631!271&parId=699D14AA9E716631!161&authkey=!AIJTqsGBNDF9QNM&app=Excel">Control de versionamiento</a></p></li>
-                            <br>
+                            <hr>
                             <li><p><a target="new" href="https://onedrive.live.com/view.aspx?cid=699d14aa9e716631&page=view&resid=699D14AA9E716631!267&parId=699D14AA9E716631!161&authkey=!AIJTqsGBNDF9QNM&app=Word">Documento de estrategia</a></p></li>
                             <li><p><a target="new" href="https://onedrive.live.com/view.aspx?cid=699d14aa9e716631&page=view&resid=699D14AA9E716631!266&parId=699D14AA9E716631!161&authkey=!AIJTqsGBNDF9QNM&app=Word">Documento plan de riesgos</a></p></li>
-                            <li><p>Plan de administración de configuración y control de cambios</p></li>
-                            <br>
+                            <li><p><a href="">Plan de administración de configuración y control de cambios</a></p></li>
+                            <hr>
                             <li><p><a target="new" href="https://onedrive.live.com/view.aspx?cid=699d14aa9e716631&page=view&resid=699D14AA9E716631!272&parId=699D14AA9E716631!161&authkey=!AIJTqsGBNDF9QNM&app=Word">Especificación de requerimientos de software (SRS)</a></p></li>
                                 <ul>
                                     <li><p><a target="new" href="https://onedrive.live.com/view.aspx?cid=699d14aa9e716631&page=view&resid=699D14AA9E716631!274&parId=699D14AA9E716631!161&authkey=!AIJTqsGBNDF9QNM&app=Word">Descripción casos de uso</a></p></li>
@@ -198,8 +236,14 @@
                                     <li><p><a target="new" href="https://onedrive.live.com/view.aspx?cid=699d14aa9e716631&page=view&resid=699D14AA9E716631!276&parId=699D14AA9E716631!161&authkey=!AI3hPXAtNWUeprs&app=Word">Nuevo requerimiento</a></p></li>
                                     <li><p><a target="new" href="https://onedrive.live.com/view.aspx?cid=699d14aa9e716631&page=view&resid=699D14AA9E716631!269&parId=699D14AA9E716631!161&authkey=!AIJTqsGBNDF9QNM&app=Word">Control de cambios de requerimientos</a></p></li>
                                     <li><p><a target="new" href="https://onedrive.live.com/view.aspx?cid=699d14aa9e716631&page=view&resid=699D14AA9E716631!262&parId=699D14AA9E716631!161&authkey=!AIJTqsGBNDF9QNM&app=Word">Lista de chequeo de requerimientos</a></p></li>
-                                </ul>                            
+                                </ul>                   
                             
+                            <hr>
+                            <li><p><a target="new" href="">Documento de especificación de tareas (EDT)</a></p></li>
+                            <li><p><a target="new" href="">Plan de calidad</a></p></li>
+                                <ul>
+                                    <li><p><a target="new" href="http://hosguada.gov.co/perspicappsbt/">Mantis</a></p></li>
+                                </ul>
                         </ul>
 
                 </div>
