@@ -167,7 +167,7 @@
                 <!-- ciclo 4 -->
                 <div class="col-md-12">
                     <div class="col-md-6 col-xs-offset-2">
-                        <h5> <u>Semana 4 : Planeación</u></h5>
+                        <h5> <u>Semana 4 : Planeación</u> <i class="fa fa-check-circle" aria-hidden="true"></i> </h5>
                         <p>Producir los planes del equipo y los ingenieros del ciclo 1, Producir plan de calidad</p>
                     </div>
                     <div class="col-md-4 text-center">
@@ -186,12 +186,28 @@
                         <p>Producir e inspeccionar el diseño de bajo nivel del ciclo 1 Producir el plan de pruebas de integración y los materiales de soporte</p>
                     </div>
                     <div class="col-md-4 text-center">
-                        <a href="" target="new" class="btn btn-lg btn-outline">
+                        <a href="https://1drv.ms/f/s!AjFmcZ6qFJ1pgmeHSR0Cjt3JuF0M" target="new" class="btn btn-lg btn-outline">
                             <i class="fa fa-search"></i> Ver archivos
                         </a>
                     </div>
                 </div>
                 <!-- END[Proyecto 5] -->
+
+                <hr class="visible-xs visible-sm">
+                <!-- ciclo 6 -->
+                <div class="col-md-12">
+                    <div class="col-md-6 col-xs-offset-2">
+                        <h5> <u>Semana 5 : Implementación</u></h5>
+                        <p>Implementación e inspección del software del ciclo 1 Estándares de documentación de software,Producir y aplicar plan de pruebas de caja blanca.</p>
+                    </div>
+                    <div class="col-md-4 text-center">
+                        <a href="" target="new" class="btn btn-lg btn-outline">
+                            <i class="fa fa-search"></i> Ver archivos
+                        </a>
+                    </div>
+                </div>
+                <!-- END[Proyecto 6] -->
+
 
             </div>
         </div>
@@ -240,10 +256,17 @@
                             
                             <hr>
                             <li><p><a target="new" href="">Documento de especificación de tareas (EDT)</a></p></li>
-                            <li><p><a target="new" href="">Plan de calidad</a></p></li>
+                            <li><p><a target="new" href="https://onedrive.live.com/view.aspx?cid=699d14aa9e716631&page=view&resid=699D14AA9E716631!360&parId=699D14AA9E716631!161&authkey=!AI3hPXAtNWUeprs&app=Word">Plan de calidad</a></p></li>
                                 <ul>
                                     <li><p><a target="new" href="http://hosguada.gov.co/perspicappsbt/">Mantis</a></p></li>
                                 </ul>
+
+                            <hr>
+                            <li><p><a target="new" href="https://onedrive.live.com/view.aspx?cid=699d14aa9e716631&page=view&resid=699D14AA9E716631!387&parId=699D14AA9E716631!161&authkey=!AI3hPXAtNWUeprs&app=Word">Documento de Arq. y Diseño (SDS)</a></p></li>
+                            <ul>
+                                <li><p><a target="new" href="https://onedrive.live.com/view.aspx?cid=699d14aa9e716631&page=view&resid=699D14AA9E716631!394&parId=699D14AA9E716631!161&authkey=!AI3hPXAtNWUeprs&app=Excel">Formato Asignación casos de usos</a></p></li>
+                            </ul>   
+
                         </ul>
 
                 </div>
