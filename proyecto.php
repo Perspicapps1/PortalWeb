@@ -182,7 +182,7 @@
                 <!-- ciclo 5 -->
                 <div class="col-md-12">
                     <div class="col-md-6 col-xs-offset-2">
-                        <h5> <u>Semana 5 : Diseño</u></h5>
+                        <h5> <u>Semana 5 : Diseño</u> <i class="fa fa-check-circle" aria-hidden="true"></i> </h5>
                         <p>Producir e inspeccionar el diseño de bajo nivel del ciclo 1 Producir el plan de pruebas de integración y los materiales de soporte</p>
                     </div>
                     <div class="col-md-4 text-center">
@@ -201,7 +201,7 @@
                         <p>Implementación e inspección del software del ciclo 1 Estándares de documentación de software,Producir y aplicar plan de pruebas de caja blanca.</p>
                     </div>
                     <div class="col-md-4 text-center">
-                        <a href="" target="new" class="btn btn-lg btn-outline">
+                        <a href="https://1drv.ms/f/s!AjFmcZ6qFJ1pgxzmabJ7CZZDLbwm" target="new" class="btn btn-lg btn-outline">
                             <i class="fa fa-search"></i> Ver archivos
                         </a>
                     </div>
@@ -265,7 +265,15 @@
                             <li><p><a target="new" href="https://onedrive.live.com/view.aspx?cid=699d14aa9e716631&page=view&resid=699D14AA9E716631!387&parId=699D14AA9E716631!161&authkey=!AI3hPXAtNWUeprs&app=Word">Documento de Arq. y Diseño (SDS)</a></p></li>
                             <ul>
                                 <li><p><a target="new" href="https://onedrive.live.com/view.aspx?cid=699d14aa9e716631&page=view&resid=699D14AA9E716631!394&parId=699D14AA9E716631!161&authkey=!AI3hPXAtNWUeprs&app=Excel">Formato Asignación casos de usos</a></p></li>
-                            </ul>   
+                            </ul>
+
+                            <hr>
+                            <li><p><a href="https://onedrive.live.com/view.aspx?cid=699d14aa9e716631&page=view&resid=699D14AA9E716631!411&parId=699D14AA9E716631!161&authkey=!AI3hPXAtNWUeprs&app=Word">Documento Plan de implementación</a></p></li>
+                            <ul>
+                                <li><p><a href="">Lista de chequeo por módulo</a></p></li>
+                                <li><p><a href="">Informe Revisión e inspección</a></p></li>
+                            </ul>
+                            <li><p><a href="">Diccionario de Datos</a></p></li>
 
                         </ul>
 
