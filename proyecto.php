@@ -116,7 +116,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2>Documentación</h2>
+                    <h2>Documentación: Ciclo 1</h2>
                     <hr class="star-light">
                 </div>
             </div>
@@ -197,7 +197,7 @@
                 <!-- ciclo 6 -->
                 <div class="col-md-12">
                     <div class="col-md-6 col-xs-offset-2">
-                        <h5> <u>Semana 5 : Implementación</u></h5>
+                        <h5> <u>Semana 6 : Implementación</u> <i class="fa fa-check-circle" aria-hidden="true"></i> </h5>
                         <p>Implementación e inspección del software del ciclo 1 Estándares de documentación de software,Producir y aplicar plan de pruebas de caja blanca.</p>
                     </div>
                     <div class="col-md-4 text-center">
@@ -208,6 +208,20 @@
                 </div>
                 <!-- END[Proyecto 6] -->
 
+                <hr class="visible-xs visible-sm">
+                <!-- ciclo 7 -->
+                <div class="col-md-12">
+                    <div class="col-md-6 col-xs-offset-2">
+                        <h5> <u>Semana 7 : Pruebas</u></h5>
+                        <p>Pruebas de sistema, integración y aceptación para ciclo 1. </p>
+                    </div>
+                    <div class="col-md-4 text-center">
+                        <a href="https://1drv.ms/f/s!AjFmcZ6qFJ1pgztB0ADU5OriT3BT" target="new" class="btn btn-lg btn-outline">
+                            <i class="fa fa-search"></i> Ver archivos
+                        </a>
+                    </div>
+                </div>
+                <!-- END[Proyecto 7] -->
 
             </div>
         </div>
@@ -268,12 +282,18 @@
                             </ul>
 
                             <hr>
-                            <li><p><a href="https://onedrive.live.com/view.aspx?cid=699d14aa9e716631&page=view&resid=699D14AA9E716631!411&parId=699D14AA9E716631!161&authkey=!AI3hPXAtNWUeprs&app=Word">Documento Plan de implementación</a></p></li>
+                            <li><p><a target="new" href="https://onedrive.live.com/view.aspx?cid=699d14aa9e716631&page=view&resid=699D14AA9E716631!411&parId=699D14AA9E716631!161&authkey=!AI3hPXAtNWUeprs&app=Word">Documento Plan de implementación</a></p></li>
                             <ul>
-                                <li><p><a href="">Lista de chequeo por módulo</a></p></li>
-                                <li><p><a href="">Informe Revisión e inspección</a></p></li>
+                                <li><p><a target="new" href="https://onedrive.live.com/view.aspx?cid=699d14aa9e716631&page=view&resid=699D14AA9E716631!422&parId=699D14AA9E716631!161&authkey=!AI3hPXAtNWUeprs&app=Word">Lista de chequeo por módulo</a></p></li>
+                                <li><p><a target="new" href="https://onedrive.live.com/view.aspx?cid=699d14aa9e716631&page=view&resid=699D14AA9E716631!423&parId=699D14AA9E716631!161&authkey=!AI3hPXAtNWUeprs&app=Word">Informe Revisión e inspección</a></p></li>
                             </ul>
-                            <li><p><a href="">Diccionario de Datos</a></p></li>
+                            <li><p><a target="new" href="https://onedrive.live.com/view.aspx?cid=699d14aa9e716631&page=view&resid=699D14AA9E716631!424&parId=699D14AA9E716631!161&authkey=!AI3hPXAtNWUeprs&app=Excel">Diccionario de Datos</a></p></li>
+
+                            <hr>
+                            <li><p><a href="">Plan de pruebas de Integración</a></p></li>
+                            <ul>
+                                <li><p><a target="new" href="https://onedrive.live.com/view.aspx?cid=699d14aa9e716631&page=view&resid=699D14AA9E716631!442&parId=699D14AA9E716631!161&authkey=!AI3hPXAtNWUeprs&app=Word">Especificación de casos de prueba</a></p></li>
+                            </ul>
 
                         </ul>
 
