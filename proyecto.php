@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Perspicaps - Proyecto</title>
+    <title>Perspicapps - Proyecto</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -33,7 +33,7 @@
 
     <style type="text/css">
         .fa-check-circle{
-            color: #18bc9c;
+            color: #0b6351;
             font-size: 18px;
         }
     </style>
@@ -63,10 +63,10 @@
                         <a href="#definicion">Definición</a>
                     </li>
                     <li class="page-scroll">
-                        <a href="#about">Documentación</a>
+                        <a href="#about">Ciclo 1</a>
                     </li>
                     <li class="page-scroll">
-                        <a href="#contact">Formatos</a>
+                        <a href="#ciclo2">Ciclo 2</a>
                     </li>
                 </ul>
             </div>
@@ -108,6 +108,14 @@
                         ofrece una gama amplia de especialidades con los más reconocidos especialistas del paìs</p>         
                 </div>
             </div>
+            <div class="row">
+                <div class="col-sm-4 text-center">
+                    <img src="img/capture_1.png" class="img-responsive">
+                </div>
+                <div class="col-sm-4 text-center">
+                    <img src="img/capture_2.png" class="img-responsive">
+                </div>
+            </div>
         </div>
     </section>
 
@@ -121,7 +129,7 @@
                 </div>
             </div>
             <div class="row">
-                <!-- Proyecto 1 -->
+                <!-- semana 1 -->
                 <div class="col-md-12">
                     <div class="col-md-6 col-xs-offset-2">
                         <h5> <u>Semana 1 : Lanzamiento </u> <i class="fa fa-check-circle" aria-hidden="true"></i> </h5>
@@ -133,9 +141,9 @@
                         </a>
                     </div>
                 </div>
-                <!-- END[Proyecto 1] -->
+                <!-- END[semana 1] -->
                 <hr class="visible-xs visible-sm">
-                <!-- Proyecto 2 -->
+                <!-- semana 2 -->
                 <div class="col-md-12">
                     <div class="col-md-6 col-xs-offset-2">
                         <h5> <u>Semana 2 : Estrategia</u> <i class="fa fa-check-circle" aria-hidden="true"></i> </h5>
@@ -147,9 +155,9 @@
                         </a>
                     </div>
                 </div>
-                <!-- END[Proyecto 2] -->
+                <!-- END[semana 2] -->
                 <hr class="visible-xs visible-sm">
-                <!-- ciclo 3 -->
+                <!-- semana 3 -->
                 <div class="col-md-12">
                     <div class="col-md-6 col-xs-offset-2">
                         <h5> <u>Semana 3 : Requerimientos</u> <i class="fa fa-check-circle" aria-hidden="true"></i> </h5>
@@ -161,10 +169,10 @@
                         </a>
                     </div>
                 </div>
-                <!-- END[Proyecto 3] -->
+                <!-- END[semana 3] -->
 
                 <hr class="visible-xs visible-sm">
-                <!-- ciclo 4 -->
+                <!-- semana 4 -->
                 <div class="col-md-12">
                     <div class="col-md-6 col-xs-offset-2">
                         <h5> <u>Semana 4 : Planeación</u> <i class="fa fa-check-circle" aria-hidden="true"></i> </h5>
@@ -176,10 +184,10 @@
                         </a>
                     </div>
                 </div>
-                <!-- END[Proyecto 4] -->
+                <!-- END[semana 4] -->
 
                 <hr class="visible-xs visible-sm">
-                <!-- ciclo 5 -->
+                <!-- semana 5 -->
                 <div class="col-md-12">
                     <div class="col-md-6 col-xs-offset-2">
                         <h5> <u>Semana 5 : Diseño</u> <i class="fa fa-check-circle" aria-hidden="true"></i> </h5>
@@ -191,10 +199,10 @@
                         </a>
                     </div>
                 </div>
-                <!-- END[Proyecto 5] -->
+                <!-- END[semana 5] -->
 
                 <hr class="visible-xs visible-sm">
-                <!-- ciclo 6 -->
+                <!-- semana 6 -->
                 <div class="col-md-12">
                     <div class="col-md-6 col-xs-offset-2">
                         <h5> <u>Semana 6 : Implementación</u> <i class="fa fa-check-circle" aria-hidden="true"></i> </h5>
@@ -206,13 +214,13 @@
                         </a>
                     </div>
                 </div>
-                <!-- END[Proyecto 6] -->
+                <!-- END[semana 6] -->
 
                 <hr class="visible-xs visible-sm">
-                <!-- ciclo 7 -->
+                <!-- semana 7 -->
                 <div class="col-md-12">
                     <div class="col-md-6 col-xs-offset-2">
-                        <h5> <u>Semana 7 : Pruebas</u></h5>
+                        <h5> <u>Semana 7 : Pruebas</u> <i class="fa fa-check-circle" aria-hidden="true"></i> </h5>
                         <p>Pruebas de sistema, integración y aceptación para ciclo 1. </p>
                     </div>
                     <div class="col-md-4 text-center">
@@ -221,82 +229,104 @@
                         </a>
                     </div>
                 </div>
-                <!-- END[Proyecto 7] -->
+                <!-- END[semana 7] -->
 
             </div>
         </div>
     </section>
 
-    <!-- Contact Section -->
+    <!-- Section Formatos -->
     <section id="contact">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2>Formatos<h5><a target="new" href="https://onedrive.live.com/?authkey=%21AI3hPXAtNWUeprs&id=699D14AA9E716631%21161&cid=699D14AA9E716631">Ver carpeta</a></h5></h2>
+                    <h2>Formatos: Ciclo 1 <h5></h5></h2>
                     <hr class="star-primary">
                 </div>
             </div>
 
             <!-- equipo -->
             <div class="row">
-                <div class="col-lg-12">
+                <div class="col-lg-12 text-center">
+                    <a class="btn btn-success" target="new" href="https://onedrive.live.com/?authkey=%21AI3hPXAtNWUeprs&id=699D14AA9E716631%21529&cid=699D14AA9E716631">Ver carpeta</a>
+                </div>
+            </div>
+            <!-- END Equipo -->        
+        </div>
+    </section>
 
-                        <ul>
-                            <li><p><a target="new" href="https://onedrive.live.com/view.aspx?cid=699d14aa9e716631&page=view&resid=699D14AA9E716631!261&parId=699D14AA9E716631!161&authkey=!AIJTqsGBNDF9QNM&app=Word">Acta de iniciación</a></p></li>
-                            <li><p><a target="new" href="https://onedrive.live.com/view.aspx?cid=699d14aa9e716631&page=view&resid=699D14AA9E716631!259&parId=699D14AA9E716631!161&authkey=!AIJTqsGBNDF9QNM&app=Word">Acta de reunión</a></p></li>
-                            <li><p><a target="new" href="https://onedrive.live.com/view.aspx?cid=699d14aa9e716631&page=view&resid=699D14AA9E716631!273&parId=699D14AA9E716631!161&authkey=!AIJTqsGBNDF9QNM&app=Word">Script de proceso</a></p></li>
-                            <li><p><a target="new" href="https://onedrive.live.com/view.aspx?cid=699d14aa9e716631&page=view&resid=699D14AA9E716631!263&parId=699D14AA9E716631!161&authkey=!AIJTqsGBNDF9QNM&app=Word">Bitacora de tiempo</a></p></li>
-                            <br>
-                            <li><p><a target="new" href="https://onedrive.live.com/view.aspx?cid=699d14aa9e716631&page=view&resid=699D14AA9E716631!270&parId=699D14AA9E716631!161&authkey=!AIJTqsGBNDF9QNM&app=Excel">Control de cuentas</a></p></li>
-                            <li><p><a target="new" href="https://onedrive.live.com/view.aspx?cid=699d14aa9e716631&page=view&resid=699D14AA9E716631!271&parId=699D14AA9E716631!161&authkey=!AIJTqsGBNDF9QNM&app=Excel">Control de versionamiento</a></p></li>
-                            <hr>
-                            <li><p><a target="new" href="https://onedrive.live.com/view.aspx?cid=699d14aa9e716631&page=view&resid=699D14AA9E716631!267&parId=699D14AA9E716631!161&authkey=!AIJTqsGBNDF9QNM&app=Word">Documento de estrategia</a></p></li>
-                            <li><p><a target="new" href="https://onedrive.live.com/view.aspx?cid=699d14aa9e716631&page=view&resid=699D14AA9E716631!266&parId=699D14AA9E716631!161&authkey=!AIJTqsGBNDF9QNM&app=Word">Documento plan de riesgos</a></p></li>
-                            <li><p><a href="">Plan de administración de configuración y control de cambios</a></p></li>
-                            <hr>
-                            <li><p><a target="new" href="https://onedrive.live.com/view.aspx?cid=699d14aa9e716631&page=view&resid=699D14AA9E716631!272&parId=699D14AA9E716631!161&authkey=!AIJTqsGBNDF9QNM&app=Word">Especificación de requerimientos de software (SRS)</a></p></li>
-                                <ul>
-                                    <li><p><a target="new" href="https://onedrive.live.com/view.aspx?cid=699d14aa9e716631&page=view&resid=699D14AA9E716631!274&parId=699D14AA9E716631!161&authkey=!AIJTqsGBNDF9QNM&app=Word">Descripción casos de uso</a></p></li>
-                                    <li><p><a target="new" href="https://onedrive.live.com/view.aspx?cid=699d14aa9e716631&page=view&resid=699D14AA9E716631!268&parId=699D14AA9E716631!161&authkey=!AIJTqsGBNDF9QNM&app=Word">Atributos de calidad</a></p></li>
-                                </ul>
-                            
-                           
-                            <li><p><a target="new" href="https://onedrive.live.com/view.aspx?cid=699d14aa9e716631&page=view&resid=699D14AA9E716631!277&parId=699D14AA9E716631!161&authkey=!AI3hPXAtNWUeprs&app=Word">Plan de administración de requerimientos</a></p></li>
-                                <ul>
-                                    <li><p><a target="new" href="https://onedrive.live.com/view.aspx?cid=699d14aa9e716631&page=view&resid=699D14AA9E716631!276&parId=699D14AA9E716631!161&authkey=!AI3hPXAtNWUeprs&app=Word">Nuevo requerimiento</a></p></li>
-                                    <li><p><a target="new" href="https://onedrive.live.com/view.aspx?cid=699d14aa9e716631&page=view&resid=699D14AA9E716631!269&parId=699D14AA9E716631!161&authkey=!AIJTqsGBNDF9QNM&app=Word">Control de cambios de requerimientos</a></p></li>
-                                    <li><p><a target="new" href="https://onedrive.live.com/view.aspx?cid=699d14aa9e716631&page=view&resid=699D14AA9E716631!262&parId=699D14AA9E716631!161&authkey=!AIJTqsGBNDF9QNM&app=Word">Lista de chequeo de requerimientos</a></p></li>
-                                </ul>                   
-                            
-                            <hr>
-                            <li><p><a target="new" href="">Documento de especificación de tareas (EDT)</a></p></li>
-                            <li><p><a target="new" href="https://onedrive.live.com/view.aspx?cid=699d14aa9e716631&page=view&resid=699D14AA9E716631!360&parId=699D14AA9E716631!161&authkey=!AI3hPXAtNWUeprs&app=Word">Plan de calidad</a></p></li>
-                                <ul>
-                                    <li><p><a target="new" href="http://hosguada.gov.co/perspicappsbt/">Mantis</a></p></li>
-                                </ul>
+    <!-- Ciclo 2 -->
+    <section id="ciclo2" style="background:#18BC9C;">
+        <div class="footer-above">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12 text-center">
+                        <h2>Documentación: Ciclo 2</h2>
+                        <hr class="star-light">
+                    </div>
+                </div>
+                <div class="row">
+                    <!-- semana 1 -->
+                    <div class="col-md-12">
+                        <div class="col-md-6 col-xs-offset-2">
+                            <h5> <u>Semana 1 : Lanzamiento y Estrategia </u> <i class="fa fa-check-circle" aria-hidden="true"></i> </h5>
+                            <p>Reasignar equipos de estudiantes y roles, definir enunciado del proyecto. Producir el diseño conceptual, establecer la estrategia de desarrollo, hacer estimación de tamaño y evaluar riesgos.</p>
+                        </div>
+                        <div class="col-md-4 text-center">
+                            <a href="https://onedrive.live.com/?authkey=%21AJ9cV4CzocBgzEc&id=699D14AA9E716631%21511&cid=699D14AA9E716631" target="new" class="btn btn-lg btn-outline">
+                                <i class="fa fa-search"></i> Ver archivos
+                            </a>
+                        </div>
+                    </div>
+                    <!-- END[semana 1] -->
+                    <hr class="visible-xs visible-sm">
+                    <!-- semana 2 -->
+                    <div class="col-md-12">
+                        <div class="col-md-6 col-xs-offset-2">
+                            <h5> <u>Semana 2 : Requerimientos y Planeación</u> </h5>
+                            <p>Producir el plan de pruebas del sistema y materiales de soporte. Producir los planes del equipo y los ingenieros del ciclo2.</p>
+                        </div>
+                        <div class="col-md-4 text-center">
+                            <a href="" target="new" class="btn btn-lg btn-outline">
+                                <i class="fa fa-search"></i> Ver archivos
+                            </a>
+                        </div>
+                    </div>
+                    <!-- END[semana 2] -->
+                    <hr class="visible-xs visible-sm">
+                    <!-- semana 3 -->
+                    <div class="col-md-12">
+                        <div class="col-md-6 col-xs-offset-2">
+                            <h5> <u>Semana 3 : Diseño</u> </h5>
+                            <p>Producir e inspeccionar el diseño de alto nivel del ciclo 2. Producir e inspeccionar el diseño de bajo nivel del ciclo 2. Producir el plan de pruebas de integración y los materiales de soporte.</p>
+                        </div>
+                        <div class="col-md-4 text-center">
+                            <a href="" target="new" class="btn btn-lg btn-outline">
+                                <i class="fa fa-search"></i> Ver archivos
+                            </a>
+                        </div>
+                    </div>
+                    <!-- END[semana 3] -->
+                </div>
 
-                            <hr>
-                            <li><p><a target="new" href="https://onedrive.live.com/view.aspx?cid=699d14aa9e716631&page=view&resid=699D14AA9E716631!387&parId=699D14AA9E716631!161&authkey=!AI3hPXAtNWUeprs&app=Word">Documento de Arq. y Diseño (SDS)</a></p></li>
-                            <ul>
-                                <li><p><a target="new" href="https://onedrive.live.com/view.aspx?cid=699d14aa9e716631&page=view&resid=699D14AA9E716631!394&parId=699D14AA9E716631!161&authkey=!AI3hPXAtNWUeprs&app=Excel">Formato Asignación casos de usos</a></p></li>
-                            </ul>
+            </div>
+        </div>
+    </section>
 
-                            <hr>
-                            <li><p><a target="new" href="https://onedrive.live.com/view.aspx?cid=699d14aa9e716631&page=view&resid=699D14AA9E716631!411&parId=699D14AA9E716631!161&authkey=!AI3hPXAtNWUeprs&app=Word">Documento Plan de implementación</a></p></li>
-                            <ul>
-                                <li><p><a target="new" href="https://onedrive.live.com/view.aspx?cid=699d14aa9e716631&page=view&resid=699D14AA9E716631!422&parId=699D14AA9E716631!161&authkey=!AI3hPXAtNWUeprs&app=Word">Lista de chequeo por módulo</a></p></li>
-                                <li><p><a target="new" href="https://onedrive.live.com/view.aspx?cid=699d14aa9e716631&page=view&resid=699D14AA9E716631!423&parId=699D14AA9E716631!161&authkey=!AI3hPXAtNWUeprs&app=Word">Informe Revisión e inspección</a></p></li>
-                            </ul>
-                            <li><p><a target="new" href="https://onedrive.live.com/view.aspx?cid=699d14aa9e716631&page=view&resid=699D14AA9E716631!424&parId=699D14AA9E716631!161&authkey=!AI3hPXAtNWUeprs&app=Excel">Diccionario de Datos</a></p></li>
+    <!-- Section Formatos -->
+    <section id="contact">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>Formatos: Ciclo 2 <h5></h5></h2>
+                    <hr class="star-primary">
+                </div>
+            </div>
 
-                            <hr>
-                            <li><p><a href="">Plan de pruebas de Integración</a></p></li>
-                            <ul>
-                                <li><p><a target="new" href="https://onedrive.live.com/view.aspx?cid=699d14aa9e716631&page=view&resid=699D14AA9E716631!442&parId=699D14AA9E716631!161&authkey=!AI3hPXAtNWUeprs&app=Word">Especificación de casos de prueba</a></p></li>
-                            </ul>
-
-                        </ul>
-
+            <!-- equipo -->
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <a class="btn btn-danger" target="new" href="https://onedrive.live.com/?authkey=%21Ah0fixADrXyXbCc&id=699D14AA9E716631%21530&cid=699D14AA9E716631">Ver carpeta</a>
                 </div>
             </div>
             <!-- END Equipo -->        

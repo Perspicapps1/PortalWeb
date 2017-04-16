@@ -10,7 +10,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Perspicaps</title>
+    <title>Perspicapps</title>
     <link rel="shortcut icon" href="img/logo.ico">
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -218,7 +218,7 @@
                                 <img alt="image" class="img-circle" src="img/equipo/profile_lider.jpg">
                                 <h3 class="m-b-xs"><strong>Brian Esguerra</strong></h3>
                                 <address class="m-t-md">
-                                    <strong>Lider de Equipo</strong><br>
+                                    <strong></strong><br>
                                     <i class="fa fa-skype"></i> brian-esguerra
                                 </address>
 
@@ -239,7 +239,7 @@
                                 <img alt="image" class="img-circle" src="img/equipo/profile_planeacion.jpg">
                                 <h3 class="m-b-xs"><strong>Fabio Lopez</strong></h3>
                                 <address class="m-t-md">
-                                    <strong>Lider de Planeación</strong><br>
+                                    <strong></strong><br>
                                     <i class="fa fa-skype"></i> fclopez4
                                 </address>
 
@@ -260,7 +260,7 @@
                                 <img alt="image" class="img-circle" src="img/equipo/profile_desarrollo.jpg">
                                 <h3 class="m-b-xs"><strong>David Correal</strong></h3>
                                 <address class="m-t-md">
-                                    <strong>Lider de Desarrollo</strong><br>
+                                    <strong></strong><br>
                                     <i class="fa fa-skype"></i> david.d92
                                 </address>
 
@@ -281,7 +281,7 @@
                                 <img alt="image" class="img-circle" src="img/equipo/profile_calidad.jpg">
                                 <h3 class="m-b-xs"><strong>Andres Clavijo</strong></h3>
                                 <address class="m-t-md">
-                                    <strong>Lider de Calidad/Procesos</strong><br>
+                                    <strong></strong><br>
                                     <i class="fa fa-skype"></i> shipoca2007
                                 </address>
 
@@ -302,14 +302,14 @@
                                 <img alt="image" class="img-circle" src="img/equipo/profile_soporte.jpg">
                                 <h3 class="m-b-xs"><strong>Daniel Ochoa</strong></h3>
                                 <address class="m-t-md">
-                                    <strong>Lider de Soporte</strong><br>
+                                    <strong></strong><br>
                                     <i class="fa fa-skype"></i> daniel.ochoa93
                                 </address>
 
                             </a>
                             <div class="contact-box-footer">
                                 <div class="m-t-xs btn-group">
-                                    <a class="btn btn-xs btn-white"><i class="fa fa-envelope"></i> daniel-ochoa@upc.edu.co</a>
+                                    <a class="btn btn-xs btn-white"><i class="fa fa-envelope"></i> ing.danielochoa@hotmail.com</a>
                                 </div>
                             </div>
                         </div>
@@ -323,8 +323,8 @@
                                 <img alt="image" class="img-circle" src="img/equipo/profile_arquitecto.jpg">
                                 <h3 class="m-b-xs"><strong>Daniel Forero</strong></h3>
                                 <address class="m-t-md">
-                                    <strong>Lider de Arquitectura</strong><br>
-                                    <i class="fa fa-skype"></i> david.d92
+                                    <strong></strong><br>
+                                    <i class="fa fa-skype"></i> daforero5
                                 </address>
 
                             </a>
