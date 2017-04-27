@@ -287,7 +287,7 @@
                             <p>Producir el plan de pruebas del sistema y materiales de soporte. Producir los planes del equipo y los ingenieros del ciclo2.</p>
                         </div>
                         <div class="col-md-4 text-center">
-                            <a href="" target="new" class="btn btn-lg btn-outline">
+                            <a href="https://1drv.ms/f/s!AjFmcZ6qFJ1phEbOJhjUibVgd7uF" target="new" class="btn btn-lg btn-outline">
                                 <i class="fa fa-search"></i> Ver archivos
                             </a>
                         </div>
