@@ -301,7 +301,7 @@
                             <p>Producir e inspeccionar el diseño de alto nivel del ciclo 2. Producir e inspeccionar el diseño de bajo nivel del ciclo 2. Producir el plan de pruebas de integración y los materiales de soporte.</p>
                         </div>
                         <div class="col-md-4 text-center">
-                            <a href="" target="new" class="btn btn-lg btn-outline">
+                            <a href="https://1drv.ms/f/s!AjFmcZ6qFJ1phQ8TPszzBGa0c-X6" target="new" class="btn btn-lg btn-outline">
                                 <i class="fa fa-search"></i> Ver archivos
                             </a>
                         </div>
