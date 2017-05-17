@@ -283,7 +283,7 @@
                     <!-- semana 2 -->
                     <div class="col-md-12">
                         <div class="col-md-6 col-xs-offset-2">
-                            <h5> <u>Semana 2 : Requerimientos y Planeación</u> </h5>
+                            <h5> <u>Semana 2 : Requerimientos y Planeación</u> <i class="fa fa-check-circle" aria-hidden="true"></i></h5>
                             <p>Producir el plan de pruebas del sistema y materiales de soporte. Producir los planes del equipo y los ingenieros del ciclo2.</p>
                         </div>
                         <div class="col-md-4 text-center">
@@ -297,7 +297,7 @@
                     <!-- semana 3 -->
                     <div class="col-md-12">
                         <div class="col-md-6 col-xs-offset-2">
-                            <h5> <u>Semana 3 : Diseño</u> </h5>
+                            <h5> <u>Semana 3 : Diseño</u> <i class="fa fa-check-circle" aria-hidden="true"></i></h5>
                             <p>Producir e inspeccionar el diseño de alto nivel del ciclo 2. Producir e inspeccionar el diseño de bajo nivel del ciclo 2. Producir el plan de pruebas de integración y los materiales de soporte.</p>
                         </div>
                         <div class="col-md-4 text-center">
@@ -307,6 +307,34 @@
                         </div>
                     </div>
                     <!-- END[semana 3] -->
+                    <hr class="visible-xs visible-sm">
+                    <!-- semana 4 -->
+                    <div class="col-md-12">
+                        <div class="col-md-6 col-xs-offset-2">
+                            <h5> <u>Semana 4 : Implementación</u> </h5>
+                            <p>Implementación e inspección del software del ciclo 2 Estándares de documentación de software. Producir y aplicar plan de pruebas de caja blanca.</p>
+                        </div>
+                        <div class="col-md-4 text-center">
+                            <a href="https://1drv.ms/f/s!AjFmcZ6qFJ1phWLQ5TKVF9k_cyod" target="new" class="btn btn-lg btn-outline">
+                                <i class="fa fa-search"></i> Ver archivos
+                            </a>
+                        </div>
+                    </div>
+                    <!-- END[semana 4] -->
+                    <hr class="visible-xs visible-sm">
+                    <!-- semana 5 -->
+                    <div class="col-md-12">
+                        <div class="col-md-6 col-xs-offset-2">
+                            <h5> <u>Semana 5 : Pruebas</u> </h5>
+                            <p>Pruebas de sistema, integración, aceptación para ciclo 2. Producir manual de usuarios</p>
+                        </div>
+                        <div class="col-md-4 text-center">
+                            <a href="" target="new" class="btn btn-lg btn-outline">
+                                <i class="fa fa-search"></i> Ver archivos
+                            </a>
+                        </div>
+                    </div>
+                    <!-- END[semana 5] -->
                 </div>
 
             </div>
