@@ -329,7 +329,7 @@
                             <p>Pruebas de sistema, integración, aceptación para ciclo 2. Producir manual de usuarios</p>
                         </div>
                         <div class="col-md-4 text-center">
-                            <a href="" target="new" class="btn btn-lg btn-outline">
+                            <a href="https://1drv.ms/f/s!AjFmcZ6qFJ1phkVEIsFhPXwKUxRV" target="new" class="btn btn-lg btn-outline">
                                 <i class="fa fa-search"></i> Ver archivos
                             </a>
                         </div>
